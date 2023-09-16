@@ -1,0 +1,2 @@
+# kryptikwurm.github.io
+Blog
